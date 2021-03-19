@@ -98,7 +98,7 @@
 
 ```bash
 # clone the project
-git clone https://git.ictrci.com/myzs/manage-web.git
+git clone https://github.com/helibin/bin-admin.git
 
 # install dependency
 npm install
